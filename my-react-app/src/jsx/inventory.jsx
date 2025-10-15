@@ -105,6 +105,511 @@ function Inventory() {
                       </div>
                     </td>
                   </tr>
+                  <tr>
+                    <td className="inventory-item-name">Shampoo</td>
+                    <td className="inventory-item-text">Miniso</td>
+                    <td className="inventory-item-text">C123</td>
+                    <td className="inventory-item-text">₱50</td>
+                    <td><span className="inventory-category-badge">Hair Care</span></td>
+                    <td className="inventory-item-text">120</td>
+                    <td>
+                      <div className="inventory-actions-cell">
+                        <button className="inventory-action-btn inventory-action-view">
+                          <img src={eye} alt="View" />
+                        </button>
+                        <button className="inventory-action-btn inventory-action-edit">
+                          <img src={check} alt="Edit" />
+                        </button>
+                        <button className="inventory-action-btn inventory-action-delete">
+                          <img src={x} alt="Delete" />
+                        </button>
+                      </div>
+                    </td>
+                  </tr>
+
+<tr>
+                    <td className="inventory-item-name">Shampoo</td>
+                    <td className="inventory-item-text">Miniso</td>
+                    <td className="inventory-item-text">C123</td>
+                    <td className="inventory-item-text">₱50</td>
+                    <td><span className="inventory-category-badge">Hair Care</span></td>
+                    <td className="inventory-item-text">120</td>
+                    <td>
+                      <div className="inventory-actions-cell">
+                        <button className="inventory-action-btn inventory-action-view">
+                          <img src={eye} alt="View" />
+                        </button>
+                        <button className="inventory-action-btn inventory-action-edit">
+                          <img src={check} alt="Edit" />
+                        </button>
+                        <button className="inventory-action-btn inventory-action-delete">
+                          <img src={x} alt="Delete" />
+                        </button>
+                      </div>
+                    </td>
+                  </tr>
+
+<tr>
+                    <td className="inventory-item-name">Shampoo</td>
+                    <td className="inventory-item-text">Miniso</td>
+                    <td className="inventory-item-text">C123</td>
+                    <td className="inventory-item-text">₱50</td>
+                    <td><span className="inventory-category-badge">Hair Care</span></td>
+                    <td className="inventory-item-text">120</td>
+                    <td>
+                      <div className="inventory-actions-cell">
+                        <button className="inventory-action-btn inventory-action-view">
+                          <img src={eye} alt="View" />
+                        </button>
+                        <button className="inventory-action-btn inventory-action-edit">
+                          <img src={check} alt="Edit" />
+                        </button>
+                        <button className="inventory-action-btn inventory-action-delete">
+                          <img src={x} alt="Delete" />
+                        </button>
+                      </div>
+                    </td>
+                  </tr>
+
+<tr>
+                    <td className="inventory-item-name">Shampoo</td>
+                    <td className="inventory-item-text">Miniso</td>
+                    <td className="inventory-item-text">C123</td>
+                    <td className="inventory-item-text">₱50</td>
+                    <td><span className="inventory-category-badge">Hair Care</span></td>
+                    <td className="inventory-item-text">120</td>
+                    <td>
+                      <div className="inventory-actions-cell">
+                        <button className="inventory-action-btn inventory-action-view">
+                          <img src={eye} alt="View" />
+                        </button>
+                        <button className="inventory-action-btn inventory-action-edit">
+                          <img src={check} alt="Edit" />
+                        </button>
+                        <button className="inventory-action-btn inventory-action-delete">
+                          <img src={x} alt="Delete" />
+                        </button>
+                      </div>
+                    </td>
+                  </tr>
+
+<tr>
+                    <td className="inventory-item-name">Shampoo</td>
+                    <td className="inventory-item-text">Miniso</td>
+                    <td className="inventory-item-text">C123</td>
+                    <td className="inventory-item-text">₱50</td>
+                    <td><span className="inventory-category-badge">Hair Care</span></td>
+                    <td className="inventory-item-text">120</td>
+                    <td>
+                      <div className="inventory-actions-cell">
+                        <button className="inventory-action-btn inventory-action-view">
+                          <img src={eye} alt="View" />
+                        </button>
+                        <button className="inventory-action-btn inventory-action-edit">
+                          <img src={check} alt="Edit" />
+                        </button>
+                        <button className="inventory-action-btn inventory-action-delete">
+                          <img src={x} alt="Delete" />
+                        </button>
+                      </div>
+                    </td>
+                  </tr>
+
+<tr>
+                    <td className="inventory-item-name">Shampoo</td>
+                    <td className="inventory-item-text">Miniso</td>
+                    <td className="inventory-item-text">C123</td>
+                    <td className="inventory-item-text">₱50</td>
+                    <td><span className="inventory-category-badge">Hair Care</span></td>
+                    <td className="inventory-item-text">120</td>
+                    <td>
+                      <div className="inventory-actions-cell">
+                        <button className="inventory-action-btn inventory-action-view">
+                          <img src={eye} alt="View" />
+                        </button>
+                        <button className="inventory-action-btn inventory-action-edit">
+                          <img src={check} alt="Edit" />
+                        </button>
+                        <button className="inventory-action-btn inventory-action-delete">
+                          <img src={x} alt="Delete" />
+                        </button>
+                      </div>
+                    </td>
+                  </tr>
+
+<tr>
+                    <td className="inventory-item-name">Shampoo</td>
+                    <td className="inventory-item-text">Miniso</td>
+                    <td className="inventory-item-text">C123</td>
+                    <td className="inventory-item-text">₱50</td>
+                    <td><span className="inventory-category-badge">Hair Care</span></td>
+                    <td className="inventory-item-text">120</td>
+                    <td>
+                      <div className="inventory-actions-cell">
+                        <button className="inventory-action-btn inventory-action-view">
+                          <img src={eye} alt="View" />
+                        </button>
+                        <button className="inventory-action-btn inventory-action-edit">
+                          <img src={check} alt="Edit" />
+                        </button>
+                        <button className="inventory-action-btn inventory-action-delete">
+                          <img src={x} alt="Delete" />
+                        </button>
+                      </div>
+                    </td>
+                  </tr>
+
+<tr>
+                    <td className="inventory-item-name">Shampoo</td>
+                    <td className="inventory-item-text">Miniso</td>
+                    <td className="inventory-item-text">C123</td>
+                    <td className="inventory-item-text">₱50</td>
+                    <td><span className="inventory-category-badge">Hair Care</span></td>
+                    <td className="inventory-item-text">120</td>
+                    <td>
+                      <div className="inventory-actions-cell">
+                        <button className="inventory-action-btn inventory-action-view">
+                          <img src={eye} alt="View" />
+                        </button>
+                        <button className="inventory-action-btn inventory-action-edit">
+                          <img src={check} alt="Edit" />
+                        </button>
+                        <button className="inventory-action-btn inventory-action-delete">
+                          <img src={x} alt="Delete" />
+                        </button>
+                      </div>
+                    </td>
+                  </tr>
+
+<tr>
+                    <td className="inventory-item-name">Shampoo</td>
+                    <td className="inventory-item-text">Miniso</td>
+                    <td className="inventory-item-text">C123</td>
+                    <td className="inventory-item-text">₱50</td>
+                    <td><span className="inventory-category-badge">Hair Care</span></td>
+                    <td className="inventory-item-text">120</td>
+                    <td>
+                      <div className="inventory-actions-cell">
+                        <button className="inventory-action-btn inventory-action-view">
+                          <img src={eye} alt="View" />
+                        </button>
+                        <button className="inventory-action-btn inventory-action-edit">
+                          <img src={check} alt="Edit" />
+                        </button>
+                        <button className="inventory-action-btn inventory-action-delete">
+                          <img src={x} alt="Delete" />
+                        </button>
+                      </div>
+                    </td>
+                  </tr>
+
+<tr>
+                    <td className="inventory-item-name">Shampoo</td>
+                    <td className="inventory-item-text">Miniso</td>
+                    <td className="inventory-item-text">C123</td>
+                    <td className="inventory-item-text">₱50</td>
+                    <td><span className="inventory-category-badge">Hair Care</span></td>
+                    <td className="inventory-item-text">120</td>
+                    <td>
+                      <div className="inventory-actions-cell">
+                        <button className="inventory-action-btn inventory-action-view">
+                          <img src={eye} alt="View" />
+                        </button>
+                        <button className="inventory-action-btn inventory-action-edit">
+                          <img src={check} alt="Edit" />
+                        </button>
+                        <button className="inventory-action-btn inventory-action-delete">
+                          <img src={x} alt="Delete" />
+                        </button>
+                      </div>
+                    </td>
+                  </tr>
+
+<tr>
+                    <td className="inventory-item-name">Shampoo</td>
+                    <td className="inventory-item-text">Miniso</td>
+                    <td className="inventory-item-text">C123</td>
+                    <td className="inventory-item-text">₱50</td>
+                    <td><span className="inventory-category-badge">Hair Care</span></td>
+                    <td className="inventory-item-text">120</td>
+                    <td>
+                      <div className="inventory-actions-cell">
+                        <button className="inventory-action-btn inventory-action-view">
+                          <img src={eye} alt="View" />
+                        </button>
+                        <button className="inventory-action-btn inventory-action-edit">
+                          <img src={check} alt="Edit" />
+                        </button>
+                        <button className="inventory-action-btn inventory-action-delete">
+                          <img src={x} alt="Delete" />
+                        </button>
+                      </div>
+                    </td>
+                  </tr>
+<tr>
+                    <td className="inventory-item-name">Shampoo</td>
+                    <td className="inventory-item-text">Miniso</td>
+                    <td className="inventory-item-text">C123</td>
+                    <td className="inventory-item-text">₱50</td>
+                    <td><span className="inventory-category-badge">Hair Care</span></td>
+                    <td className="inventory-item-text">120</td>
+                    <td>
+                      <div className="inventory-actions-cell">
+                        <button className="inventory-action-btn inventory-action-view">
+                          <img src={eye} alt="View" />
+                        </button>
+                        <button className="inventory-action-btn inventory-action-edit">
+                          <img src={check} alt="Edit" />
+                        </button>
+                        <button className="inventory-action-btn inventory-action-delete">
+                          <img src={x} alt="Delete" />
+                        </button>
+                      </div>
+                    </td>
+                  </tr>
+
+<tr>
+                    <td className="inventory-item-name">Shampoo</td>
+                    <td className="inventory-item-text">Miniso</td>
+                    <td className="inventory-item-text">C123</td>
+                    <td className="inventory-item-text">₱50</td>
+                    <td><span className="inventory-category-badge">Hair Care</span></td>
+                    <td className="inventory-item-text">120</td>
+                    <td>
+                      <div className="inventory-actions-cell">
+                        <button className="inventory-action-btn inventory-action-view">
+                          <img src={eye} alt="View" />
+                        </button>
+                        <button className="inventory-action-btn inventory-action-edit">
+                          <img src={check} alt="Edit" />
+                        </button>
+                        <button className="inventory-action-btn inventory-action-delete">
+                          <img src={x} alt="Delete" />
+                        </button>
+                      </div>
+                    </td>
+                  </tr>
+
+<tr>
+                    <td className="inventory-item-name">Shampoo</td>
+                    <td className="inventory-item-text">Miniso</td>
+                    <td className="inventory-item-text">C123</td>
+                    <td className="inventory-item-text">₱50</td>
+                    <td><span className="inventory-category-badge">Hair Care</span></td>
+                    <td className="inventory-item-text">120</td>
+                    <td>
+                      <div className="inventory-actions-cell">
+                        <button className="inventory-action-btn inventory-action-view">
+                          <img src={eye} alt="View" />
+                        </button>
+                        <button className="inventory-action-btn inventory-action-edit">
+                          <img src={check} alt="Edit" />
+                        </button>
+                        <button className="inventory-action-btn inventory-action-delete">
+                          <img src={x} alt="Delete" />
+                        </button>
+                      </div>
+                    </td>
+                  </tr>
+
+<tr>
+                    <td className="inventory-item-name">Shampoo</td>
+                    <td className="inventory-item-text">Miniso</td>
+                    <td className="inventory-item-text">C123</td>
+                    <td className="inventory-item-text">₱50</td>
+                    <td><span className="inventory-category-badge">Hair Care</span></td>
+                    <td className="inventory-item-text">120</td>
+                    <td>
+                      <div className="inventory-actions-cell">
+                        <button className="inventory-action-btn inventory-action-view">
+                          <img src={eye} alt="View" />
+                        </button>
+                        <button className="inventory-action-btn inventory-action-edit">
+                          <img src={check} alt="Edit" />
+                        </button>
+                        <button className="inventory-action-btn inventory-action-delete">
+                          <img src={x} alt="Delete" />
+                        </button>
+                      </div>
+                    </td>
+                  </tr>
+
+<tr>
+                    <td className="inventory-item-name">Shampoo</td>
+                    <td className="inventory-item-text">Miniso</td>
+                    <td className="inventory-item-text">C123</td>
+                    <td className="inventory-item-text">₱50</td>
+                    <td><span className="inventory-category-badge">Hair Care</span></td>
+                    <td className="inventory-item-text">120</td>
+                    <td>
+                      <div className="inventory-actions-cell">
+                        <button className="inventory-action-btn inventory-action-view">
+                          <img src={eye} alt="View" />
+                        </button>
+                        <button className="inventory-action-btn inventory-action-edit">
+                          <img src={check} alt="Edit" />
+                        </button>
+                        <button className="inventory-action-btn inventory-action-delete">
+                          <img src={x} alt="Delete" />
+                        </button>
+                      </div>
+                    </td>
+                  </tr>
+
+<tr>
+                    <td className="inventory-item-name">Shampoo</td>
+                    <td className="inventory-item-text">Miniso</td>
+                    <td className="inventory-item-text">C123</td>
+                    <td className="inventory-item-text">₱50</td>
+                    <td><span className="inventory-category-badge">Hair Care</span></td>
+                    <td className="inventory-item-text">120</td>
+                    <td>
+                      <div className="inventory-actions-cell">
+                        <button className="inventory-action-btn inventory-action-view">
+                          <img src={eye} alt="View" />
+                        </button>
+                        <button className="inventory-action-btn inventory-action-edit">
+                          <img src={check} alt="Edit" />
+                        </button>
+                        <button className="inventory-action-btn inventory-action-delete">
+                          <img src={x} alt="Delete" />
+                        </button>
+                      </div>
+                    </td>
+                  </tr>
+
+<tr>
+                    <td className="inventory-item-name">Shampoo</td>
+                    <td className="inventory-item-text">Miniso</td>
+                    <td className="inventory-item-text">C123</td>
+                    <td className="inventory-item-text">₱50</td>
+                    <td><span className="inventory-category-badge">Hair Care</span></td>
+                    <td className="inventory-item-text">120</td>
+                    <td>
+                      <div className="inventory-actions-cell">
+                        <button className="inventory-action-btn inventory-action-view">
+                          <img src={eye} alt="View" />
+                        </button>
+                        <button className="inventory-action-btn inventory-action-edit">
+                          <img src={check} alt="Edit" />
+                        </button>
+                        <button className="inventory-action-btn inventory-action-delete">
+                          <img src={x} alt="Delete" />
+                        </button>
+                      </div>
+                    </td>
+                  </tr>
+
+<tr>
+                    <td className="inventory-item-name">Shampoo</td>
+                    <td className="inventory-item-text">Miniso</td>
+                    <td className="inventory-item-text">C123</td>
+                    <td className="inventory-item-text">₱50</td>
+                    <td><span className="inventory-category-badge">Hair Care</span></td>
+                    <td className="inventory-item-text">120</td>
+                    <td>
+                      <div className="inventory-actions-cell">
+                        <button className="inventory-action-btn inventory-action-view">
+                          <img src={eye} alt="View" />
+                        </button>
+                        <button className="inventory-action-btn inventory-action-edit">
+                          <img src={check} alt="Edit" />
+                        </button>
+                        <button className="inventory-action-btn inventory-action-delete">
+                          <img src={x} alt="Delete" />
+                        </button>
+                      </div>
+                    </td>
+                  </tr>
+
+<tr>
+                    <td className="inventory-item-name">Shampoo</td>
+                    <td className="inventory-item-text">Miniso</td>
+                    <td className="inventory-item-text">C123</td>
+                    <td className="inventory-item-text">₱50</td>
+                    <td><span className="inventory-category-badge">Hair Care</span></td>
+                    <td className="inventory-item-text">120</td>
+                    <td>
+                      <div className="inventory-actions-cell">
+                        <button className="inventory-action-btn inventory-action-view">
+                          <img src={eye} alt="View" />
+                        </button>
+                        <button className="inventory-action-btn inventory-action-edit">
+                          <img src={check} alt="Edit" />
+                        </button>
+                        <button className="inventory-action-btn inventory-action-delete">
+                          <img src={x} alt="Delete" />
+                        </button>
+                      </div>
+                    </td>
+                  </tr>
+
+<tr>
+                    <td className="inventory-item-name">Shampoo</td>
+                    <td className="inventory-item-text">Miniso</td>
+                    <td className="inventory-item-text">C123</td>
+                    <td className="inventory-item-text">₱50</td>
+                    <td><span className="inventory-category-badge">Hair Care</span></td>
+                    <td className="inventory-item-text">120</td>
+                    <td>
+                      <div className="inventory-actions-cell">
+                        <button className="inventory-action-btn inventory-action-view">
+                          <img src={eye} alt="View" />
+                        </button>
+                        <button className="inventory-action-btn inventory-action-edit">
+                          <img src={check} alt="Edit" />
+                        </button>
+                        <button className="inventory-action-btn inventory-action-delete">
+                          <img src={x} alt="Delete" />
+                        </button>
+                      </div>
+                    </td>
+                  </tr>
+
+<tr>
+                    <td className="inventory-item-name">Shampoo</td>
+                    <td className="inventory-item-text">Miniso</td>
+                    <td className="inventory-item-text">C123</td>
+                    <td className="inventory-item-text">₱50</td>
+                    <td><span className="inventory-category-badge">Hair Care</span></td>
+                    <td className="inventory-item-text">120</td>
+                    <td>
+                      <div className="inventory-actions-cell">
+                        <button className="inventory-action-btn inventory-action-view">
+                          <img src={eye} alt="View" />
+                        </button>
+                        <button className="inventory-action-btn inventory-action-edit">
+                          <img src={check} alt="Edit" />
+                        </button>
+                        <button className="inventory-action-btn inventory-action-delete">
+                          <img src={x} alt="Delete" />
+                        </button>
+                      </div>
+                    </td>
+                  </tr>
+<tr>
+                    <td className="inventory-item-name">Shampoo</td>
+                    <td className="inventory-item-text">Miniso</td>
+                    <td className="inventory-item-text">C123</td>
+                    <td className="inventory-item-text">₱50</td>
+                    <td><span className="inventory-category-badge">Hair Care</span></td>
+                    <td className="inventory-item-text">120</td>
+                    <td>
+                      <div className="inventory-actions-cell">
+                        <button className="inventory-action-btn inventory-action-view">
+                          <img src={eye} alt="View" />
+                        </button>
+                        <button className="inventory-action-btn inventory-action-edit">
+
+                          <img src={check} alt="Edit" />
+                        </button>
+                        <button className="inventory-action-btn inventory-action-delete">
+                          <img src={x} alt="Delete" />
+                        </button>
+                      </div>
+                    </td>
+                  </tr>
+
                 </tbody>
               </table>
             </div>
